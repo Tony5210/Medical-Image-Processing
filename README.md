@@ -5,11 +5,17 @@
 **医学图像处理课程 - 期末大作业**
 
 ### 目录
-main.m --- 源代码\n
-MIAreport.pdf --- 报告\n
-Fig1_Registration_Results.png\n
-Fig2_Clustered_WMH_Regions.png\n
-WMH_Regional_Associations.png\n
+
+main.m --- 源代码
+
+MIAreport.pdf --- 报告
+
+Fig1_Registration_Results.png
+
+Fig2_Clustered_WMH_Regions.png
+
+WMH_Regional_Associations.png 
+
 --- 图片
 
 ### 📌 项目简介
