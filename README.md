@@ -4,6 +4,14 @@
 **Medical Image Processing Course - Final Project**
 **医学图像处理课程 - 期末大作业**
 
+### 目录
+main.m --- 源代码
+MIAreport.pdf --- 报告
+Fig1_Registration_Results.png
+Fig2_Clustered_WMH_Regions.png
+WMH_Regional_Associations.png
+--- 图片
+
 ### 📌 项目简介
 
 脑白质高信号（WMH）是反映脑健康状况及神经退行性疾病（如阿尔茨海默病）的重要影像学表型。然而，不同个体的 WMH 在空间分布上表现出显著的异质性。
